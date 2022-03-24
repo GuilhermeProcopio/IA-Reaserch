@@ -1,0 +1,31 @@
+<h1>Agente inteligente para prova de teorema</h1>
+
+<h2>Ambiente</h2>
+
+<p>Nessa questão, chega ser complexo definir um ambiente, mas podemos imaginar um cenário facilitador, 
+onde usaríamos um agente inteligente específico: agente de software. Bom, sabemos que um software pode consumir 
+um grande poder de processamento para provar teoremas, já que suas precisões matemáticas e sua velocidade de cálculo é maior que a de um
+humano. Com isso, usaremos um ambiente virtual, um software. Onde o cenário para efetuar o seu cálculo seria: Não observável, determinístico, 
+não estático, não discreto e agente único.</p>
+
+<h2>Sensores</h2>
+<p>
+Levantando um pouco das especulações do que poderia ser um sensor para nosso agente inteligente,
+esse sensor precisa ser capaz de ler dados e compreender matematicamente o teorema. Com isso a podemos 
+definir que seu sensor tenha uma entrada de dados através de teclado.
+</p>
+
+<h2>Atuadores</h2>
+<p>
+O atador de um agente provador de teorema, poderá ser utilizado monitores para exibir questionamentos quanto ao teorema,
+verificação de como está sendo feito a prova do teorema, apontamentos e até a própria prova do teorema.
+</p>
+
+<h2>
+Medida de desempenho
+</h2>
+
+<p>
+Podemos medir o desempenho do agente provador de teorema através da precisão matemática dele, tempo levado para fazer a prova do teorema,
+forma de comprovação do teorema e sua eficácia matemática como um todo. 
+</p>
